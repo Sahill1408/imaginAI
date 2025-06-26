@@ -36,7 +36,7 @@ Welcome to **ImaginAI**, a cutting-edge Full Stack Text-to-Image Generator AI Sa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Aditya1or0/imaginAI.git
+git clone https://github.com/Sahill1408/imaginAI.git
 cd imaginAI
 ```
 
@@ -140,7 +140,7 @@ Feel free to fork this project and submit pull requests. Contributions are welco
 
 ## Contact
 
-For any inquiries or support, you can reach out to **Aditya1or0** on GitHub.
+For any inquiries or support, you can reach out to **Sahill1408** on GitHub.
 
 ---
 
