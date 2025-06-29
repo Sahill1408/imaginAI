@@ -1,4 +1,4 @@
-# ImaginAI - Full Stack Text-to-Image Generator AI SaaS A
+# ImaginAI - Full Stack Text-to-Image Generator AI SaaS App
 
 Welcome to **ImaginAI**, a cutting-edge Full Stack Text-to-Image Generator AI SaaS Application built with **React JS** and the **MERN** stack (MongoDB, Express, React, Node.js). This app allows users to generate images by entering text prompts, utilizing a powerful **Clipdrop API** for image creation. Additionally, users can purchase credits to generate more images through an integrated **online payment gateway**.
 
